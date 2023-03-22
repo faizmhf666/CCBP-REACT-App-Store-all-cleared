@@ -35,8 +35,13 @@
 .input-element {
   height: 24px;
   width: 238px;
+  border: 0px solid transparent;
+  background-color: transparent;
 }
 .search-container {
   margin-top: 15px;
   display: flex;
+  border: 1px solid #7b8794;
+  padding: 4px;
+  border-radius: 10px;
 }
